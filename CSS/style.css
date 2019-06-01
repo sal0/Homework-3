@@ -1,3 +1,13 @@
 .header{
 	height: 30px;
+	display: inline-block;
 }
+.inline-block{
+	display: inline-block;
+	}
+.navigation{
+	text-decoration: none;
+}
+.ul{ 
+	list-style: none;
+ }
