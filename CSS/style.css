@@ -11,3 +11,11 @@
 .ul{ 
 	list-style: none;
  }
+ .image{
+ 	width: : 10px;
+
+ }
+ .navigation-a{
+ 	display: inline-block;
+ 	margin: 20px;
+ }
